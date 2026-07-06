@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="01.IntegralNumericTypes/01.IntegralNumericTypes.csproj" Id="053f43a0-11c1-4386-a1af-2d3951527494" />
+  <Project Path="02.Floating-PointNumericTypes/02.Floating-PointNumericTypes.csproj" Id="b3e249d7-f1d4-4110-84d6-4c568da66dda" />
+  <Project Path="03.BooleanType.(bool)/03.BooleanType.(bool).csproj" Id="6cdb970d-6e3b-489d-a007-2b7c7b1a9a2f" />
+  <Project Path="04.CharacterType.(char)/04.CharacterType.(char).csproj" Id="8389123c-80e4-4f86-8862-23a46dfadca4" />
+  <Project Path="05.TextType.(string)/05.TextType.(string).csproj" Id="f942930b-bd3b-44d8-9ce2-e966661f592e" />
+  <Project Path="06.VarTypeInference-TheImplicitType/06.VarTypeInference-TheImplicitType.csproj" Id="0999ec3b-d39e-456e-a4de-774bd9014d06" />
+  <Project Path="07.DynamicKeyword/07.DynamicKeyword.csproj" Id="2a82cf2c-1819-4ff8-bdd5-bc6047943a8e" />
+  <Project Path="08.Constants.(const)/08.Constants.(const).csproj" Id="68b96d5a-d23d-4202-b5c5-41f2f953a1c4" />
+  <Project Path="09.TypeCastImplicit&amp;ExplicitPrimitives/09.TypeCastImplicit&amp;ExplicitPrimitives.csproj" Id="0216b348-f07d-4a55-9057-fb8b2e34e437" />
+</Solution>
