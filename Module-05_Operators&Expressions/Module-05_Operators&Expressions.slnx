@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="01.ArithmeticOperators/01.ArithmeticOperators.csproj" Id="d9bc281f-696d-434f-9a86-895110298b24" />
+  <Project Path="02.AssignmentOperators/02.AssignmentOperators.csproj" Id="a14aea94-df65-4353-8b22-ffcb59591432" />
+  <Project Path="03.ComparisonOperators/03.ComparisonOperators.csproj" Id="e60d9bd6-2f1f-4387-9055-8adc51aaf99c" />
 </Solution>
