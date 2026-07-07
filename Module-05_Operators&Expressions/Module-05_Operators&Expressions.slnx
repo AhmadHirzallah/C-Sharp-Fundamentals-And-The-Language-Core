@@ -2,4 +2,8 @@
   <Project Path="01.ArithmeticOperators/01.ArithmeticOperators.csproj" Id="d9bc281f-696d-434f-9a86-895110298b24" />
   <Project Path="02.AssignmentOperators/02.AssignmentOperators.csproj" Id="a14aea94-df65-4353-8b22-ffcb59591432" />
   <Project Path="03.ComparisonOperators/03.ComparisonOperators.csproj" Id="e60d9bd6-2f1f-4387-9055-8adc51aaf99c" />
+  <Project Path="04.LogicalOperators/04.LogicalOperators.csproj" Id="c9fe6d03-640f-4fb9-90a1-da26c1b0e690" />
+  <Project Path="05.IncrementAndDecrement/05.IncrementAndDecrement.csproj" Id="7ece3061-6d2a-475e-b46e-a36051ed7c62" />
+  <Project Path="06.OperatorPrecedence/06.OperatorPrecedence.csproj" Id="07b83d4a-f12a-4cfb-a4ae-c303d9f2ea9d" />
+  <Project Path="07.CodingChallenges/07.CodingChallenges.csproj" Id="cf5250f2-f755-49f8-9b48-9948954e7602" />
 </Solution>
