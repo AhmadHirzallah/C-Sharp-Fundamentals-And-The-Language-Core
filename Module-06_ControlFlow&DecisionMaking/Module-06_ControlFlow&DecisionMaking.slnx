@@ -1,1 +1,7 @@
-<Solution />
+<Solution>
+  <Project Path="1.IfStatement/1.IfStatement.csproj" Id="7bf5c168-0477-420e-bd3b-78f2f7edd619" />
+  <Project Path="2.IfElseStatement/2.IfElseStatement.csproj" Id="934b2ff0-c31f-4e90-b666-1d52fdd86edf" />
+  <Project Path="3.IfElseIfStatement/3.IfElseIfStatement.csproj" Id="dc918f48-b257-4df9-ad95-0d1e112331b0" />
+  <Project Path="4.SwitchStatement/4.SwitchStatement.csproj" Id="356c650b-26f2-4148-8f84-b51b492768f4" />
+  <Project Path="5.TernaryOperator/5.TernaryOperator.csproj" Id="823e4742-0895-42ec-9ab7-53f8ed85dadd" />
+</Solution>
