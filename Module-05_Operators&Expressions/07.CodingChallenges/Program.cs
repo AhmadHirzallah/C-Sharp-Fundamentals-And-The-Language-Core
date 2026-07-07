@@ -121,7 +121,7 @@
 #endregion
 
 
-#region MyRegion
+#region Exercise 6 — Hard
 
 {
 	Console.WriteLine($"\n\n\n\n================================ Exercise 6 — Hard ================================\r\n" +
