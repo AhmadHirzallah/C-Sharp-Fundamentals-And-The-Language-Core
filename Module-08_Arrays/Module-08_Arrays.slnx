@@ -1,1 +1,10 @@
-<Solution />
+<Solution>
+  <Folder Name="/Images/" />
+  <Project Path="01.Declaring-and-Initializing-Arrays/01.Declaring-and-Initializing-Arrays.csproj" Id="f3472a77-3499-4bff-b869-2d7d40b68559" />
+  <Project Path="02.Accessing-Elements/02.Accessing-Elements.csproj" Id="3ff98324-2719-4a75-9be1-dc2021e9d0dd" />
+  <Project Path="03.Array-Length&amp;Boundaries/03.Array-Length&amp;Boundaries.csproj" Id="ff803edf-fb70-427b-bec5-cebfc507e4d3" />
+  <Project Path="04.Looping-Through-Arrays/04.Looping-Through-Arrays.csproj" Id="3f7026b7-8d77-417b-a0a7-20513c8a141c" />
+  <Project Path="05.Multi-Dimensional-Arrays/05.Multi-Dimensional-Arrays.csproj" Id="91459016-9935-4717-b24e-f812205712c5" />
+  <Project Path="06.Jagged-Arrays/06.Jagged-Arrays.csproj" Id="e1c201c0-51ef-4c37-bef2-61d9e37d5359" />
+  <Project Path="07.Practical-Business-Example-(Annual-Sales-Report)/07.Practical-Business-Example-(Annual-Sales-Report).csproj" Id="dfedd828-6880-4663-aa65-756ddf214632" />
+</Solution>
