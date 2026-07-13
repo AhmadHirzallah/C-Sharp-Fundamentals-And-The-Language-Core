@@ -3,5 +3,6 @@
   <Project Path="2.IfElseStatement/2.IfElseStatement.csproj" Id="934b2ff0-c31f-4e90-b666-1d52fdd86edf" />
   <Project Path="3.IfElseIfStatement/3.IfElseIfStatement.csproj" Id="dc918f48-b257-4df9-ad95-0d1e112331b0" />
   <Project Path="4.SwitchStatement/4.SwitchStatement.csproj" Id="356c650b-26f2-4148-8f84-b51b492768f4" />
-  <Project Path="5.TernaryOperator/5.TernaryOperator.csproj" Id="823e4742-0895-42ec-9ab7-53f8ed85dadd" />
+  <Project Path="5.TernaryOperator/5.TernaryOperator.csproj" Id="15c0aa76-e9e3-485b-b120-e7fbb84e8064" />
+  <Project Path="6.ModernSwitchExpression/6.ModernSwitchExpression.csproj" Id="7a125148-6aca-4ee9-b612-425906a99a52" />
 </Solution>

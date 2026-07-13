@@ -1,1 +1,10 @@
-<Solution />
+<Solution>
+  <Project Path="01.Entry-Controlled-Loop-(while)/01.Entry-Controlled-Loop-(while).csproj" />
+  <Project Path="02.Exit-Controlled-Loop-(do-while)/02.Exit-Controlled-Loop-(do-while).csproj" Id="d7c1a237-e0d5-4d2c-a260-f90cc67ee4fd" />
+  <Project Path="03-Counter-Controlled-Loop-(for)/03-Counter-Controlled-Loop-(for).csproj" Id="fcd682d5-f5d9-4203-adcb-846295eb7d48" />
+  <Project Path="04.Collection-Iteration-(foreach)/04.Collection-Iteration-(foreach).csproj" Id="51069d12-4dfd-401e-87f7-ca20cef98673" />
+  <Project Path="05-Flow-Interruption-(break&amp;continue)/05-Flow-Interruption-(break&amp;continue).csproj" Id="0cf36c90-1da7-4947-a603-074a9faaad26" />
+  <Project Path="06-GOTO-JumpStatements/06-GOTO-JumpStatements.csproj" Id="371b7eb4-272f-4572-8359-0f3d7684cbc7" />
+  <Project Path="07-Nesting-Loops/07-Nesting-Loops.csproj" Id="dcdaebf6-9597-4833-8823-2304150c4d2e" />
+  <Project Path="08-Coding-Challenges/08-Coding-Challenges.csproj" Id="faa1d4bc-cfeb-4d19-9607-68bb4c3f13b8" />
+</Solution>
