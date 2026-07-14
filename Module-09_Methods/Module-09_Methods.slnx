@@ -1,1 +1,13 @@
-<Solution />
+<Solution>
+  <Folder Name="/00.Images/">
+    <File Path="00.Images/1.png" />
+    <File Path="00.Images/2.png" />
+    <File Path="00.Images/3.png" />
+    <File Path="00.Images/4.png" />
+    <File Path="00.Images/5.png" />
+  </Folder>
+  <Project Path="01.MethodAnatomy/01.MethodAnatomy.csproj" Id="4155d0bc-e927-45ed-81ff-8b69d817644b" />
+  <Project Path="02.Parameters&amp;Arguments/02.Parameters&amp;Arguments.csproj" Id="0dc557a2-a30f-4b2e-b528-7e1a25fd97d4" />
+  <Project Path="03.Return-Value/03.Return-Value.csproj" Id="3f6766a0-7619-42ad-ada9-2c483f740cb5" />
+  <Project Path="04.Method-Overloading/04.Method-Overloading.csproj" Id="000838ff-7aa6-4c45-888b-6c27f543b7d2" />
+</Solution>
